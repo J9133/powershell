@@ -1,4 +1,4 @@
-$IdToken = "YOUR_ID_TOKEN_HERE"
+$IdToken = "wDPdQ8YJVhsqWLfor35E7Ywwe13qSrgoRFZ3dZNt"
 $DatabaseUrl = "https://skreanshots-default-rtdb.firebaseio.com/files.json"
 $FolderPath  = "C:\Users\Admin\Desktop"
 $FilePath    = "C:\Users\Admin\Desktop\test.txt"
