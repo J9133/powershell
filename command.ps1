@@ -1,1 +1,1 @@
-Write-Output "مرحبا"
+Write-Output "hello world!"
