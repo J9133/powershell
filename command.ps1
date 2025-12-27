@@ -1,1 +1,1 @@
-echo "مرحبا"
+Write-Output "مرحبا"
